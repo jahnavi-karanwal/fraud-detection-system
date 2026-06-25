@@ -1,3 +1,4 @@
 dataset/
-models/*.pkl
-
+AIML Dataset.csv
+.venv/
+__pycache__/
